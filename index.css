@@ -60,7 +60,9 @@ nav li {
   background-color: #00000020;
 }
 .nav-item i {
+  display: flex;
   font-size: 20px;
+  align-items: center;
 }
 i.fa-code {
   font-size: 0.9em;
